@@ -16,15 +16,15 @@ Studying at San Diego State University and expected to graduate May 2023. Workin
 
 ### Specialized in
 
-- Experience with ArcGIS, ArcGIS Online, QGIS, Terrset, ERDAS IMAGINE, ENVI, Business Analyst Online, LINGO, and PostgresQL (design and technical aspects).
+Experience with ArcGIS, ArcGIS Online, QGIS, Terrset, ERDAS IMAGINE, ENVI, Business Analyst Online, LINGO, and PostgresQL (design and technical aspects).
 
-- Basic Javascript skills, linear programming, and Python skills.
+Basic Javascript skills, linear programming, and Python skills.
 
-- Strong working with Excel, Outlook, other Microsoft office programs, and a strong understanding of Microsoft Windows and many of it’s technical niches.
+Strong working with Excel, Outlook, other Microsoft office programs, and a strong understanding of Microsoft Windows and many of it’s technical niches.
 
-- International work and study experience.
+International work and study experience.
 
-- General Adobe Photoshop and Premiere Pro knowledge.
+General Adobe Photoshop and Premiere Pro knowledge.
 
 ### Research interests
 
