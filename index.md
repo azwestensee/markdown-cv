@@ -1,91 +1,82 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Alexander's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Alexander Westensee
+San Diego State University GIS Major.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="azwestensee@gmail.zom">azwestensee@gmail.com</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Studying at San Diego State University and expected to graduate May 2023. Working as a GIS Technician for [Stories About Places](https://www.storiesaboutplaces.com/). Working as an IT technician during school breaks.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+- Experience with ArcGIS, ArcGIS Online, QGIS, Terrset, ERDAS IMAGINE, ENVI, Business Analyst Online, LINGO, and PostgresQL (design and technical aspects).
 
+- Basic Javascript skills, linear programming, and Python skills.
+
+- Strong working with Excel, Outlook, other Microsoft office programs, and a strong understanding of Microsoft Windows and many of it’s technical niches.
+
+- International work and study experience.
+
+- General Adobe Photoshop and Premiere Pro knowledge.
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Remote sensing, research while abroad, ecosystems, and business aspects of GIS.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2019-2023`
+__San Diego State University, San Diego, California.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- 3.49 Overall GPA
+- 3.75 Major GPA
 
-- Sizar
+`July 2022 - November 2022`
+__Nelson Mandela University, Gqeberha, South Africa__
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+- Photogrammetry and Remote Sensing
+- Environmental Management
+- Economic Geology
+- Afrikaans for Beginners
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`Spring 2019 and Spring 2022`
+Dean's List, *San Diego State University*, San Diego, California
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
+`May 2017 - Present`
+__Technical Assistant__, Washington State University Veterinary Teaching Hospital, Pullman, Washington
 
-- Warden
-- Minted coins
+- Hands on working with users to suit their technical needs.
+- Team projects such as setting up a new building to work with our systems, mass computer lab updates, and general working together to problem solve.
+- Working with WSU to eventually build an ArcGIS indoors system for the teaching hospital.
+- Experience working with and solving issues with many diverse softwares and hardwares.
+- International work experience in Kenya - Helping to setup and solve network issues at a WSU department that works to end rabies.
+- Helping my community during the COVID-19 pandemic by building and setting up computers for coronavirus testing for the columbia plateau region.
+- Experience working in stressful situations such as working in surgery areas and solving time sensitive computer issues.
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`December 2021 - Present`
+__GIS Technician__, Stories About Places, Remote
 
-
+- Data gathering for the map functionality and managing/updating stories. Finding information about places of interest such as latitude and longitude, address, and web addresses.
+- Stories About Places is a web application and future app that is used as a catalog of articles, videos, and stories about different interesting places around the United States.
+- Focused on national parks, amusement parks, California state parks, New York, San Diego, etc.
+- Working with Excel, Google Maps, internet research, and the Stories About Places website.
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: February, 2023 -->
 
 
